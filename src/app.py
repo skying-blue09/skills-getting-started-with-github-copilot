@@ -39,12 +39,6 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
-    "Art Club": {
-        "description": "Explore painting, drawing, and creative crafts",
-        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
-        "max_participants": 18,
-        "participants": ["isabella@mergington.edu", "liam@mergington.edu"]
-    }
 }
 
 
